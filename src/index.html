@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="/dist/output.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"></script>
+
+    <script src="./src/root.js"></script>
+  </head>
+
+  <body class="flex flex-col w-full font-Roboto">
+    <header class="fixed top-0 left-0 right-0 z-10 w-full p-4 text-white bg-orange-500 border-2 border-red-500">
+        <!-- wrapper -->
+        HEADER
+    </header>
+    <main id="fullpage" class="mt-4">
+      <section class="p-2 bg-red-500 border-2 section">1</section>
+      <section class="p-2 bg-green-500 border-2 section">2</section>
+      <section class="p-2 bg-blue-500 border-2 section">3</section>
+    </main>
+    <footer></footer>
+    <!-- Scripts -->
+    <script type="module">
+      new fullpage("#fullpage", {
+        navigation: true,
+      });
+    </script>
+  </body>
+</html>
