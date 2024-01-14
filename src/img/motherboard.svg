@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 60 60" viewBox="0 0 60 60">
+  <circle cx="28" cy="25.5" r="1"/>
+  <circle cx="28" cy="28.5" r="1"/>
+  <circle cx="28" cy="31.5" r="1"/>
+  <circle cx="28" cy="16.5" r="1"/>
+  <circle cx="25" cy="18.5" r="1"/>
+  <circle cx="25" cy="22.5" r="1"/>
+  <circle cx="56" cy="18.5" r="1"/>
+  <circle cx="56" cy="25.5" r="1"/>
+  <circle cx="19" cy="39.5" r="1"/>
+  <circle cx="16" cy="39.5" r="1"/>
+  <circle cx="13" cy="39.5" r="1"/>
+  <circle cx="4" cy="27.5" r="1"/>
+  <circle cx="4" cy="30.5" r="1"/>
+  <circle cx="4" cy="33.5" r="1"/>
+  <circle cx="28" cy="19.5" r="1"/>
+  <circle cx="28" cy="22.5" r="1"/>
+  <path d="M57 6.5v-1a1 1 0 1 0-2 0v1h-1v-3H32v3h-1v-1a1 1 0 1 0-2 0v1h-1v-1a1 1 0 1 0-2 0v1H0v50h60v-50h-3zm-7-1h2v1h-2v-1zm-4 0h2v1h-2v-1zm-4 0h2v1h-2v-1zm-4 0h2v1h-2v-1zm-4 0h2v1h-2v-1zm-14 3v21h-2v-21h2zm-8 0v15h-2v-15h2zm46 46H2v-1h2a1 1 0 1 0 0-2H2v-1h2a1 1 0 1 0 0-2H2v-1h2a1 1 0 1 0 0-2H2v-1h2a1 1 0 1 0 0-2H2v-1h2a1 1 0 1 0 0-2H2v-20h2a1 1 0 1 0 0-2H2v-1h2a1 1 0 1 0 0-2H2v-1h2a1 1 0 1 0 0-2H2v-3h6v17h2v1a1 1 0 1 0 2 0v-1h2v-17h2v23h2v1a1 1 0 1 0 2 0v-1h2v-23h36v46z"/>
+  <path d="M37 27.5h2v2h2v-2h1v2h2v-2h1v2h2v-2h2v-2h2v-2h-2v-1h2v-2h-2v-1h2v-2h-2v-2h-2v-2h-2v2h-1v-2h-2v2h-1v-2h-2v2h-2v2h-2v2h2v1h-2v2h2v1h-2v2h2v2zm2-10h8v8h-8v-8z"/>
+  <path d="M34.709 32.5h16.582A2.712 2.712 0 0 0 54 29.791V13.209a2.712 2.712 0 0 0-2.709-2.709H34.709A2.712 2.712 0 0 0 32 13.209v16.582a2.712 2.712 0 0 0 2.709 2.709zM34 13.209a.71.71 0 0 1 .709-.709h16.582a.71.71 0 0 1 .709.709v16.582a.71.71 0 0 1-.709.709H34.709a.71.71 0 0 1-.709-.709V13.209zM55 38.5a1 1 0 1 0 0-2h-1v-2H26v2h-1a1 1 0 1 0 0 2h1v2h-1a1 1 0 1 0 0 2h1v2h-1a1 1 0 1 0 0 2h1v2h-1a1 1 0 1 0 0 2h1v2h28v-2h1a1 1 0 1 0 0-2h-1v-2h1a1 1 0 1 0 0-2h-1v-2h1a1 1 0 1 0 0-2h-1v-2h1zm-3 0h-1v-2h1v2zm0 4h-1v-2h1v2zm0 4h-1v-2h1v2zm-21 0v-2h18v2H31zm18 2v2H31v-2h18zm-21-4h1v2h-1v-2zm0-4h1v2h-1v-2zm21 0v2H31v-2h18zm-18-2v-2h18v2H31zm-3-2h1v2h-1v-2zm0 12h1v2h-1v-2zm24 2h-1v-2h1v2zm-31-4a1 1 0 1 0 0-2h-1v-2h-8v2h-1a1 1 0 1 0 0 2h1v1h-1a1 1 0 1 0 0 2h1v2h8v-2h1a1 1 0 1 0 0-2h-1v-1h1zm-3 3h-4v-5h4v5zm-4-20H7v7h7v-7zm-2 5H9v-3h3v3z"/>
+</svg>
