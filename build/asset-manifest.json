@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7278f7f5.css",
+    "main.js": "/static/js/main.30602427.js",
+    "static/media/hero2.png": "/static/media/hero2.2ba07facb2f71e57fbe0.png",
+    "static/media/hero1.png": "/static/media/hero1.682546b73a41255ab014.png",
+    "static/media/asic.svg": "/static/media/asic.24d62cee6f9b26cd1b7a58160bdd2924.svg",
+    "static/media/power-supply.svg": "/static/media/power-supply.b7aa4d93c73802f0f533f43146533ff1.svg",
+    "static/media/ssd.svg": "/static/media/ssd.90e491b4161d6c5179c08937bafda7f6.svg",
+    "static/media/video-card.svg": "/static/media/video-card.ee88a3b49dec2bc83ac097b25218a3d8.svg",
+    "static/media/cpu.svg": "/static/media/cpu.d9525808b29d9aa36489f79ab1511577.svg",
+    "static/media/construction-worker.svg": "/static/media/construction-worker.dfb8e97308002e575734874abe81d42b.svg",
+    "static/media/pay.svg": "/static/media/pay.de376e015c1bb171f9aab3d7c50c3ac8.svg",
+    "static/media/pc-tower.svg": "/static/media/pc-tower.4766ddb367cc547217b7129315026881.svg",
+    "static/media/repair.svg": "/static/media/repair.57ee2c94115c3c7222f385f1c17f34df.svg",
+    "static/media/tag.svg": "/static/media/tag.f36f1f47ed86aa14b47fd556c85fcd98.svg",
+    "static/media/motherboard.svg": "/static/media/motherboard.6fe238821320322fd77829d53b6c67f6.svg",
+    "static/media/ram.svg": "/static/media/ram.1d79c95e2b74bf70dd15c654944cb893.svg",
+    "index.html": "/index.html",
+    "main.7278f7f5.css.map": "/static/css/main.7278f7f5.css.map",
+    "main.30602427.js.map": "/static/js/main.30602427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7278f7f5.css",
+    "static/js/main.30602427.js"
+  ]
+}
